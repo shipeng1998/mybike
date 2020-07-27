@@ -4,26 +4,26 @@ public class Constants {
 	/**
 	 * 短信 appid
 	 */
-	public static final String SMSAPPID="1302468767";
+	public static final String SMSAPPID="";
 	/**
 	 * 腾讯云账户密钥对: secretId
 	 */
-	public static final String SMSSECREID="AKIDr8A5ifBZbNdaJjnL8nUwZzBML6ejJB4j";
+	public static final String SMSSECREID="";
 	/**
 	 * 腾讯云账户密钥对: secretKey
 	 */
-	public static final String SMSSECREKEY="MIFC3VdeSeCfy3CQXbGojSvEGO5c18Tk";
+	public static final String SMSSECREKEY="";
 	/**
 	 * SmsSdkAppid
 	 */
-	public static final String SMSSDKAPPID="1400387506";
+	public static final String SMSSDKAPPID="";
 	/**
 	 * sms sign   : sms签名
 	 */
-	public static final String SMSSIGN="石鹏个人学习网站";
+	public static final String SMSSIGN="";
 	/**
 	 * sms 短信模板id:  
 	 */
-	public static final String SMSTEMPLATEID="641875";
+	public static final String SMSTEMPLATEID="";
 
 }
